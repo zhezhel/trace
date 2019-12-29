@@ -1,3 +1,3 @@
-module gitlab.mtechnology.pl/pmarkowski/programming/golang/trace
+module github.com/zhezhel/trace
 
 go 1.13
